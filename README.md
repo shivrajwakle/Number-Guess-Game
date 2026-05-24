@@ -24,7 +24,7 @@ In this game, the computer generates a secret random number, and you have to gue
 
 1. **Clone the repository** (if applicable):
 ```bash
-git clone https://github.com/yourusername/number-guessing-game.git
+git clone https://github.com/shivrajwakle/Number-Guess-Game.git
 cd number-guessing-game
 ```
 
